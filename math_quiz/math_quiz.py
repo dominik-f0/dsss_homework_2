@@ -78,7 +78,7 @@ def math_quiz():
     
     """
     user_points = 0
-    t_q = 3.14159265359
+    t_q = 3 #.14159265359
 
     print("Welcome to the Math Quiz Game!")
     print("You will be presented with math problems, and you need to provide the correct answers.")
